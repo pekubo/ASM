@@ -1,5 +1,6 @@
 ﻿; Mnemonic Assembler
 ; Datum Uhrzeit
+;noch ne zeile
 ASSUME  CS:CODE, DS:DATA        ;- dem Assembler die Zuordnung der Segmentregister zu den Segmenten mitteilen
 
 DATA    SEGMENT                 ;Beginn des Datensegments
